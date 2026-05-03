@@ -1,0 +1,15 @@
+# Configurações de ambiente (Segredos)
+.env
+credentials.json
+
+# Ambiente Virtual (Bibliotecas instaladas)
+venv/
+env/
+ENV/
+
+# Arquivos do sistema e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
